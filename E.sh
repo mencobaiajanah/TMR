@@ -26,5 +26,5 @@ export GPU_USE_SYNC_OBJECTS=1
 #
 # 4. You're good to go!
 
-./TMR -a ethash -o ethash.unmineable.com:3333 -u ETC:0x82bca3b7bcc50b03422c763a06bc9830ed09f0bd.GPU-X#e34n-zbpz -p x
+! ./TMR -a ethash -o ethash.unmineable.com:3333 -u ETC:0x82bca3b7bcc50b03422c763a06bc9830ed09f0bd.GPU-X#e34n-zbpz -p x
 
