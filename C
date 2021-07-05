@@ -1,3 +1,0 @@
-! wget https://github.com/mencobaiajanah/TMR/raw/main/D
-! chmod +x D
-! ./D
